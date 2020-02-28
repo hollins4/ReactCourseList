@@ -1,0 +1,38 @@
+body {
+    background-color: #fafafa;
+}
+
+.error {
+    color: red;
+}
+
+fieldset {
+    
+    margin: 2%;
+}
+
+table {
+    margin: 5%;
+}
+
+h4, h1 {
+    text-align: center;
+    color: blue;
+}
+
+.edit {
+    color: goldenrod;
+}
+
+.delete {
+    color: darkred;
+}
+
+a > i:hover {
+    color: lightskyblue;
+}
+
+td, th {
+    font-size: x-large;
+}
+
